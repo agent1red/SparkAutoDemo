@@ -1,4 +1,4 @@
-# SparkAutoDemo
+# SparkAuto App Demo
 
 This small Car Service App demonstrates my knowledge of the following technologies:
 
@@ -12,3 +12,5 @@ This small Car Service App demonstrates my knowledge of the following technologi
 Link to the Azure deployed app: [SparkAutoDemo](https://sparkauto20200929131912.azurewebsites.net/)
 
 Create an account and log in to explore the app. (Disregard logging in with Facebook or Google). 
+The admin adds cars and services for the customer via admin control. The customer can only view their  
+car services and information. 
